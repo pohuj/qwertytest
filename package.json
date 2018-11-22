@@ -1,0 +1,19 @@
+{
+  "name": "qwertytest",
+  "version": "1.0.0",
+  "description": "npm module test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pohuj/qwertytest.git"
+  },
+  "author": "Sergey Ivanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pohuj/qwertytest/issues"
+  },
+  "homepage": "https://github.com/pohuj/qwertytest#readme"
+}
